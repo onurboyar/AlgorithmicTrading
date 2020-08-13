@@ -7,4 +7,7 @@ Application of Trend Following strategy using
 - Lowess smooting
 - HP Filter
 
-Using data from Borsa İstanbul
+Using data from Borsa İstanbul.
+
+quantstrat library is major library used in these codes.
+
